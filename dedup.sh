@@ -1,0 +1,1 @@
+/haplox/users/huang/mypy/data-analysis/ctdna_exome_pipeline/dedup.py -1 /haplox/users/fumimi/somatic/step4_samtools/S008_20180530020-c_ffpedna_86gene-180518_7111.sort.bam -o ./S008_20180530020-c_ffpedna_86gene-180518_7111.mark.bam
