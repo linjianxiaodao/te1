@@ -1,1 +1,0 @@
-samtools mpileup -B -Q 20 -C 50 -q 20 -d 20000 -f /haplox/ref/GATK/ucsc.hg19/ucsc.hg19.fasta -l /haplox/ref/bed/hap-research-0317.bed /haplox/users/fumimi/somatic/step5_dedup/S008_20180530020-c_ffpedna_86gene-180518_7111.mark.bam  > /haplox/users/fumimi/somatic/step7_Mpileup/S008_20180530020-c_ffpedna_86gene-180518_7111.pilep &
