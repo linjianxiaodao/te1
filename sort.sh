@@ -1,0 +1,1 @@
+samtools sort -@ 30 -T tmp -o /haplox/users/fumimi/somatic/step4_samtools/S008_20180530020-c_ffpedna_86gene-180518_7111.sort.bam /haplox/users/fumimi/somatic/step4_samtools/S008_20180530020-c_ffpedna_86gene-180518_7111.bam &
